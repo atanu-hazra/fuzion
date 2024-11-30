@@ -3,6 +3,9 @@
 ## Description
 Fuzion is a full-stack social media application that combines the features of popular platforms like YouTube and Twitter (X), offering hybrid functionality. It allows users to upload and interact with videos, tweets, and playlists. The platform includes advanced features like liking, saving, following, commenting, exploring content, and managing multimedia. Additionally, it provides user authentication, dark/light mode toggle, and responsive design for seamless access across devices.
 
+## Check it Live
+You can check the live version of the app here: [Fuzion Live](https://fuzion-media.vercel.app/)
+
 ## Features
 
 ### **User Features**
@@ -48,3 +51,4 @@ Fuzion is a full-stack social media application that combines the features of po
 - **State Management**: Redux (for global state management)
 - **Form Validation**: React Hook Form with Zod for form validation
 - **API Integration**: RESTful API for all features
+
