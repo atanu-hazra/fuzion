@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/imatanu108/fuzion-client.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/imatanu108/fuzion-server.git
