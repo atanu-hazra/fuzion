@@ -16,10 +16,10 @@ You can check the live version of the app here: [Fuzion Live](https://fuzion-med
   
 ### **Video Features**
 - **Upload Videos**: Upload videos with associated thumbnails.
-- **Like Videos**: Like or dislike videos.
-- **Add/Remove Videos to/from Playlists**: Manage video playlist memberships.
+- **Like Videos**: Like or unlike videos.
+- **Add/Remove Videos to/from Playlists**: Manage video playlist.
 - **Create, Update, and Delete Videos**: Users can create new videos, update their details, or delete them.
-- **Explore Videos**: Browse trending or recommended videos.
+- **Explore Videos**: Search videos you are looking for.
   
 ### **Tweet Features**
 - **Upload Tweets**: Share text-based tweets with optional images (multiple images allowed per tweet).
@@ -27,20 +27,17 @@ You can check the live version of the app here: [Fuzion Live](https://fuzion-med
 - **Save Tweets**: Save tweets to a personal collection.
 - **Create, Update, and Delete Tweets**: Post, edit, or remove tweets.
 - **Comments**: Comment on tweets and videos.
-- **Like Comments**: Like or dislike individual comments.
+- **Like Comments**: Like or unlike individual comments.
 
 ### **Social Features**
 - **Follow/Unfollow**: Follow or unfollow other users, check followers and following.
 - **View Followers and Followings**: View lists of users who follow you and those you follow.
 - **Report Content**: Flag videos, tweets, or comments for review.
   
-### **Admin Features**
-- **Content Moderation**: Admins can delete reported content or suspend users as needed.
 
 ### **Additional Features**
 - **User Profile**: Manage personal profile information, including bio and profile picture.
 - **Create and Manage Playlists**: Create playlists, add videos, and delete them.
-- **Multi-language Support**: Future support for different languages.
   
 ## Tech Stack
 
